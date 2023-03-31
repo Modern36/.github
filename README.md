@@ -14,7 +14,7 @@ Read more about the project on the project [here](modernatider1936.se/)
 
 ---
 
-<p alignt="center" width="70%">
+<p align="center" width="70%">
 <a href="https://www.rj.se/en" target="_blank"><img src="img/logo-en-rj.png" alt="Riksbankens Jubileumsfond" height=60></a>
 <a href="https://www.lunduniversity.lu.se/" target="_blank"><img src="img/logo-en-lund.png" alt="Lund University" height=60 style="float: right"></a>
 <p>
