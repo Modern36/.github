@@ -9,8 +9,7 @@ The project will hence explore how artificial intelligence and machine learning 
 
 Modern Times 1936 will use three datasets from 1936: 15,000 digitized photographs from DigitaltMuseum, all surviving radio programs from Swedish Radio, and all weekly newsreels and short films produced by Svensk Filmindustri. The research focuses on modernity in relation to gender, urbanity and industrialization, and will: (1.) examine how software can assist historians in discerning new historical knowledge, (2.) construct midsize and curated datasets that increase the scholarly capacity of media historical sources, and (3.) interrogate algorithmic detection by evaluating what machines can—or cannot—notice in historic data.
 
-Read more about the project on the project [here](https://www.modernatider1936.se/)
-
+Read more about the project and read our blog on the project [homepage](https://www.modernatider1936.se/) and make sure to check out our [YouTube channel](https://www.youtube.com/@modernatider1936)
 
 ---
 
